@@ -11,7 +11,7 @@
     },
    {
       "source": "/api/:apiurl*",
-      "destination": "https://api-enhanced-eta-seven.vercel.app/:apiurl*"
+      "destination": "http://n.zcl.xx.kg/:apiurl*"
     },
     {
       "source": "/api/ttml/:ttmlurl*",
